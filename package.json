@@ -1,0 +1,16 @@
+{
+  "name": "wedsever-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "scripts": {
+    "dev":"nodemon servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JUAN ROZO",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^3.0.1"
+  }
+}
